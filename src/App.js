@@ -4,8 +4,8 @@ import {useState, useEffect} from "react";
 function App() {
   const [taskName, setTaskName] = useState("");
   const [tasks, setTasks]       = useState(() => {
-    const savedTasks = localStorage.getItem("tasks");
-    return savedTasks ? JSON.parse(savedTasks) : [];
+  const savedTasks = localStorage.getItem("tasks");
+  return savedTasks ? JSON.parse(savedTasks) : [];
     
     
   });
