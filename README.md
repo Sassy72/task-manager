@@ -5,7 +5,7 @@ A fully functional and beautifully styled Task Manager web application built wit
 ---
 
 ## 🚀 Live Demo
-[Click here to view the live app](#) <!-- Replace # with your Vercel URL after deployment -->
+[Click here to view the live app](https://task-manager-gamma-six-78.vercel.app/) <!-- Replace # with your Vercel URL after deployment -->
 
 ---
 
